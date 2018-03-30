@@ -1,0 +1,7 @@
+/home/linux/EasyPR-master/CMakeFiles/edit_cache.dir
+/home/linux/EasyPR-master/CMakeFiles/rebuild_cache.dir
+/home/linux/EasyPR-master/CMakeFiles/demo.dir
+/home/linux/EasyPR-master/CMakeFiles/easypr.dir
+/home/linux/EasyPR-master/thirdparty/CMakeFiles/edit_cache.dir
+/home/linux/EasyPR-master/thirdparty/CMakeFiles/rebuild_cache.dir
+/home/linux/EasyPR-master/thirdparty/CMakeFiles/thirdparty.dir
